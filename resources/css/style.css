@@ -1,5 +1,9 @@
 /* General Styles */
 
+html {
+	cursor: auto;
+}
+
 html, body {
 	font-size: 16px;
 }
@@ -11,6 +15,7 @@ header {
 h1 {
 	padding-top: 30px;
 	font-size: 70px;
+	font-family: 'Oleo Script Swash Caps', cursive;
 }
 
 body {
